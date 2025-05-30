@@ -9,7 +9,9 @@ document.addEventListener("DOMContentLoaded", function() {
         "NEVER GOON",
         "5,000 visits and I drop my Adobe Enterprise login",
         "I'm Tim Cheese, and I killed John Pork. And this is my story. That day. The day I snuck up behind John. You all think you know the story. You don't",
-        "The Ultraviolet devs tried to sell my cousin vitamin gummies"
+        "The Ultraviolet devs tried to sell my cousin vitamin gummies",
+        "I'm in the thick of it everybody knows",
+        "Look for the Gummibar album in stores on November 13th"
     ];
 
     const messageElement = document.getElementById("random-message");
